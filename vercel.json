@@ -1,0 +1,15 @@
+{
+
+  "rewrites": [
+
+    {
+
+      "source": "/api/:match*",
+
+      "destination": "https://netease-cloud-music-api-two-khaki-74.vercel.app/*"
+
+    }
+
+  ]
+
+}
